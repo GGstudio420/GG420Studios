@@ -1,0 +1,7 @@
+{
+	"name": "AoeMining",
+	"version_number": "0.1.0",
+	"website_url": "",
+	"description": "AOE mining with skill-based area (for those few who find mining a bit tedious).",
+	"dependencies": [ "denikson-BepInExPack_Valheim-5.4.701" ]
+}
